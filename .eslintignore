@@ -1,0 +1,8 @@
+/*.js
+node_modules
+dist
+
+
+# Todos os arquivos terminados com js
+# Os arquivos da node_modules
+# E os arquivos convertidos na pasta dist
